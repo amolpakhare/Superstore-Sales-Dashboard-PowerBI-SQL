@@ -60,8 +60,7 @@ Superstore-Sales-Dashboard/
 │
 ├── Screenshots/
 │   ├── dashboard\_overview\.png
-│   ├── region\_wise\_sales.png
-│   └── top\_products\_chart.png
+│
 │
 └── README.md
 
@@ -97,7 +96,7 @@ Superstore-Sales-Dashboard/
 
 ## 📸 Sample Dashboard Preview
 
-![Dashboard Preview](screenshots/dashboard_overview.png)
+![Dashboard Preview]([screenshots/dashboard_overview.png](https://github.com/amolpakhare/Superstore-Sales-Dashboard-PowerBI-SQL/blob/main/Dashboard_ScreenShot.png))
 
 ---
 
