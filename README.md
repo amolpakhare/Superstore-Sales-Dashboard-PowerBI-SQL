@@ -96,7 +96,7 @@ Superstore-Sales-Dashboard/
 
 ## 📸 Sample Dashboard Preview
 
-![Dashboard Preview]([screenshots/dashboard_overview.png](https://github.com/amolpakhare/Superstore-Sales-Dashboard-PowerBI-SQL/blob/main/Dashboard_ScreenShot.png))
+--- (https://github.com/amolpakhare/Superstore-Sales-Dashboard-PowerBI-SQL/blob/main/Dashboard_ScreenShot.png)
 
 ---
 
