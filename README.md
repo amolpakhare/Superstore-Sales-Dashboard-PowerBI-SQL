@@ -23,7 +23,6 @@ The objective of this project is to simulate a real-world business intelligence 
 - 🧾 **Total Sales**: $2.03M
 - 💵 **Total Profit**: $283.9K
 - 📦 **Total Orders**: 9,251
-- 🎯 **Average Discount**: 11.2%
 
 ### 📌 Key Visuals
 - Region-wise Sales and Profit Map
